@@ -4,4 +4,12 @@ first changes
 again change
 
 
+<<<<<<< Updated upstream
 A1
+=======
+stash: When boss say. you have to move on to the second feature. because that feature is needed to be done, then in this condition. we store temperay changes that has been done.
+>>>>>>> Stashed changes
+
+
+
+again stash
