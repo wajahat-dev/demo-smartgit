@@ -1,3 +1,5 @@
 change third.txt
 
 A3
+
+staging area
